@@ -1,22 +1,82 @@
 [
-  "🎬 Action",
-  "🎭 Drama",
-  "😄 Comedy",
-  "🌟 Adventure",
-  "🧚‍♂️ Fantasy",
-  "👻 Horror",
-  "🚀 Sci-Fi",
-  "🕵️‍♂️ Mystery",
-  "💕 Romance",
-  "🔪 Thriller",
-  "🔍 Crime",
-  "🎵 Music",
-  "📜 History",
-  "👪 Family",
-  "🎨 Animation",
-  "🎓 Biography",
-  "🎥 Film Noir",
-  "📽️ Documentary",
-  "🎉 Fantasy-Adventure",
-  "🛡️ Historical Fiction"
+  {
+    "id": 1,
+    "genre": "🎬 Action"
+  },
+  {
+    "id": 2,
+    "genre": "🎭 Drama"
+  },
+  {
+    "id": 3,
+    "genre": "😄 Comedy"
+  },
+  {
+    "id": 4,
+    "genre": "🌟 Adventure"
+  },
+  {
+    "id": 5,
+    "genre": "🧚‍♂️ Fantasy"
+  },
+  {
+    "id": 6,
+    "genre": "👻 Horror"
+  },
+  {
+    "id": 7,
+    "genre": "🚀 Sci-Fi"
+  },
+  {
+    "id": 8,
+    "genre": "🕵️‍♂️ Mystery"
+  },
+  {
+    "id": 9,
+    "genre": "💕 Romance"
+  },
+  {
+    "id": 10,
+    "genre": "🔪 Thriller"
+  },
+  {
+    "id": 11,
+    "genre": "🔍 Crime"
+  },
+  {
+    "id": 12,
+    "genre": "🎵 Music"
+  },
+  {
+    "id": 13,
+    "genre": "📜 History"
+  },
+  {
+    "id": 14,
+    "genre": "👪 Family"
+  },
+  {
+    "id": 15,
+    "genre": "🎨 Animation"
+  },
+  {
+    "id": 16,
+    "genre": "🎓 Biography"
+  },
+  {
+    "id": 17,
+    "genre": "🎥 Film Noir"
+  },
+  {
+    "id": 18,
+    "genre": "📽️ Documentary"
+  },
+  {
+    "id": 19,
+    "genre": "🎉 Fantasy-Adventure"
+  },
+  {
+    "id": 20,
+    "genre": "🛡️ Historical Fiction"
+  }
 ]
