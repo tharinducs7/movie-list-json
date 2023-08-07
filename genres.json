@@ -1,82 +1,102 @@
 [
   {
     "id": 1,
-    "genre": "🎬 Action"
+    "genre": "🎬 Action",
+    "key": "Action"
   },
   {
     "id": 2,
-    "genre": "🎭 Drama"
+    "genre": "🎭 Drama",
+    "key": "Drama"
   },
   {
     "id": 3,
-    "genre": "😄 Comedy"
+    "genre": "😄 Comedy",
+    "key": "Comedy"
   },
   {
     "id": 4,
-    "genre": "🌟 Adventure"
+    "genre": "🌟 Adventure",
+    "key": "Adventure"
   },
   {
     "id": 5,
-    "genre": "🧚‍♂️ Fantasy"
+    "genre": "🧚‍♂️ Fantasy",
+    "key": "Fantasy"
   },
   {
     "id": 6,
-    "genre": "👻 Horror"
+    "genre": "👻 Horror",
+    "key": "Horror"
   },
   {
     "id": 7,
-    "genre": "🚀 Sci-Fi"
+    "genre": "🚀 Sci-Fi",
+    "key": "Sci-Fi"
   },
   {
     "id": 8,
-    "genre": "🕵️‍♂️ Mystery"
+    "genre": "🕵️‍♂️ Mystery",
+    "key": "Mystery"
   },
   {
     "id": 9,
-    "genre": "💕 Romance"
+    "genre": "💕 Romance",
+    "key": "Romance"
   },
   {
     "id": 10,
-    "genre": "🔪 Thriller"
+    "genre": "🔪 Thriller",
+    "key": "Thriller"
   },
   {
     "id": 11,
-    "genre": "🔍 Crime"
+    "genre": "🔍 Crime",
+    "key": "Crime"
   },
   {
     "id": 12,
-    "genre": "🎵 Music"
+    "genre": "🎵 Music",
+    "key": "Music"
   },
   {
     "id": 13,
-    "genre": "📜 History"
+    "genre": "📜 History",
+    "key": "History"
   },
   {
     "id": 14,
-    "genre": "👪 Family"
+    "genre": "👪 Family",
+    "key": "Family"
   },
   {
     "id": 15,
-    "genre": "🎨 Animation"
+    "genre": "🎨 Animation",
+    "key": "Animation"
   },
   {
     "id": 16,
-    "genre": "🎓 Biography"
+    "genre": "🎓 Biography",
+    "key": "Biography"
   },
   {
     "id": 17,
-    "genre": "🎥 Film Noir"
+    "genre": "🎥 Film Noir",
+    "key": "Film Noir"
   },
   {
     "id": 18,
-    "genre": "📽️ Documentary"
+    "genre": "📽️ Documentary",
+    "key": "Documentary"
   },
   {
     "id": 19,
-    "genre": "🎉 Fantasy-Adventure"
+    "genre": "🎉 Fantasy-Adventure",
+    "key": "Fantasy-Adventure"
   },
   {
     "id": 20,
-    "genre": "🛡️ Historical Fiction"
+    "genre": "🛡️ Historical Fiction",
+    "key": "Historical Fiction"
   }
 ]
