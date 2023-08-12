@@ -1,79 +1,51 @@
 [
-  {
-    "id": 1,
-    "name": "PVR Cinemas Colombo",
-    "description": "PVR Cinemas is a popular chain of multiplex cinemas in India, known for providing a high-quality movie-watching experience.",
-    "latitude": 6.9272283,
-    "longitude": 79.8428711
-  },
-  {
-    "id": 2,
-    "name": "KCC Multiplex Kandy",
-    "description": "KCC Multiplex is a cinema complex offering various movies for entertainment.",
-    "latitude": 7.124377,
-    "longitude": 80.0766394
-  },
-  {
-    "id": 3,
-    "name": "Arena Cinema Katugasthota",
-    "description": "Arena Cinema is a movie theater known for its diverse film selection.",
-    "latitude": 7.124377,
-    "longitude": 80.0766394
-  },
-  {
-    "id": 4,
-    "name": "Sigiri Cinema Katugasthota",
-    "description": "Sigiri Cinema offers a unique movie experience in Katugasthota.",
-    "latitude": 7.124377,
-    "longitude": 80.0766394
-  },
-  {
-    "id": 5,
-    "name": "Prince Cinema Galle",
-    "description": "Prince Cinema provides a cinematic escape in Galle.",
-    "latitude": 6.0428399,
-    "longitude": 80.2069994
-  },
-  {
-    "id": 6,
-    "name": "Amity Lite Maharagama",
-    "description": "Amity Lite offers a delightful movie experience in Maharagama.",
-    "latitude": 6.8496747,
-    "longitude": 79.9162434
-  },
-  {
-    "id": 7,
-    "name": "Savoy Metro - Maharagama",
-    "description": "Savoy Metro offers a captivating movie experience in Maharagama.",
-    "latitude": 6.8496747,
-    "longitude": 79.9162434
-  },
-  {
-    "id": 8,
-    "name": "Liberty By Scope Cinemas Colombo",
-    "description": "Liberty By Scope Cinemas provides a unique movie experience in Colombo.",
-    "latitude": 6.9122075,
-    "longitude": 79.7750853
-  },
-  {
-    "id": 9,
-    "name": "Majestic Cineplex Bambalapitiya",
-    "description": "Majestic Cineplex offers a grand movie experience in Bambalapitiya.",
-    "latitude": 6.9122075,
-    "longitude": 79.7750853
-  },
-  {
-    "id": 10,
-    "name": "Savoy 3D Cinema Wellawatta",
-    "description": "Savoy 3D Cinema offers an immersive movie experience in Wellawatta.",
-    "latitude": 6.9122075,
-    "longitude": 79.7750853
-  },
-  {
-    "id": 11,
-    "name": "Scope Cinemas Multiplex - CCC",
-    "description": "Scope Cinemas Multiplex offers a comprehensive movie experience at CCC.",
-    "latitude": 6.9122075,
-    "longitude": 79.7750853
-  }
+    {
+        "id": 1,
+        "name": "Colombo City Cinema",
+        "latitude": 6.9271,
+        "longitude": 79.8612,
+        "description": "A popular movie theater in the heart of Colombo."
+    },
+    {
+        "id": 2,
+        "name": "Liberty Lite Cinema",
+        "latitude": 6.9278,
+        "longitude": 79.8437,
+        "description": "A modern cinema located in the Liberty Plaza shopping complex."
+    },
+    {
+        "id": 3,
+        "name": "Majestic Cineplex",
+        "latitude": 6.9126,
+        "longitude": 79.8499,
+        "description": "A multiplex cinema known for its luxurious seating and facilities."
+    },
+    {
+        "id": 4,
+        "name": "Savoy 3D",
+        "latitude": 6.9155,
+        "longitude": 79.8576,
+        "description": "A theater offering 3D movie experiences."
+    },
+    {
+        "id": 5,
+        "name": "Empire Cineplex",
+        "latitude": 6.9276,
+        "longitude": 79.8451,
+        "description": "An iconic cinema with a history dating back to colonial times."
+    },
+    {
+        "id": 6,
+        "name": "Kandy Cinema",
+        "latitude": 7.2906,
+        "longitude": 80.6337,
+        "description": "A movie theater located in the picturesque city of Kandy."
+    },
+    {
+        "id": 7,
+        "name": "Galle Movieplex",
+        "latitude": 6.0324,
+        "longitude": 80.2170,
+        "description": "A modern movie theater in the coastal city of Galle."
+    }
 ]
